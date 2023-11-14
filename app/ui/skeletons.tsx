@@ -83,6 +83,7 @@ export function LatestInvoicesSkeleton() {
 }
 
 export default function DashboardSkeleton() {
+  console.log("DashboardSkeleton")
   return (
     <>
       <div
